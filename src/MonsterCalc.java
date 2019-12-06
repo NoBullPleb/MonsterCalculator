@@ -116,7 +116,6 @@ public class MonsterCalc extends JFrame {
 				continue;
 			}
 			Integer stat = Integer.parseInt(t);
-			System.out.print(labels[i] + "=" + stat);
 			int x = 0;
 			// find the minCR
 			Double previousMax = 0d;
@@ -132,11 +131,9 @@ public class MonsterCalc extends JFrame {
 			}
 			if (!foundMax)
 				thiscr = 30.0;
-			System.out.println(" CR: " + thiscr);
 			cr += thiscr;
 		}
 		cr /= devBy;
-		System.out.println("REAL CR: " + cr);
 		ListModel<Double> list = CRs[0].getModel();
 		for (int i = 0; i < list.getSize(); i++) {
 			if ((cr < 1 && list.getElementAt(i) >= cr) || (Math.round(cr) == list.getElementAt(i))) {
