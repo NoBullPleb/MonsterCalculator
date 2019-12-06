@@ -1,0 +1,6 @@
+1,Community
+2,Fairness
+3,Honor
+4,Logic
+5,Responsibility
+6,Tradition

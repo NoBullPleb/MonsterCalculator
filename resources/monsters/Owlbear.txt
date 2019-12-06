@@ -1,0 +1,25 @@
+~Owlbear
+Large Monstrosity, Unaligned
+Armor Class, 13 (Natural Armor)
+Hit Points, 59 (7d10+21)
+Speed, 40 ft
+Str,20 (+5)
+Dex,12 (+1)
+Con,17 (+3)
+Int,3 (­4)
+Wis,12 (+1)
+Cha,7 (­2)
+Skills, Perception +3
+Senses, Darkvision 60 ft, passive Perception 13
+Languages, —
+Challenge, 3 (700XP)
+Traits
+Multiattack, The owlbear makes two attacks, one with its beak and one with its claws.
+Keen Sight and Smell, The wolf has advantage on Wisdom (Perception) checks that rely on hearing and smell.
+Actions
+Beak ­ Melee Weapon Attack
++7 to Hit, reach 5 ft, one target
+Hit, 10 (1d10+5) piercing damage
+Claws ­ Melee Weapon Attack
++7 to Hit, reach 5 ft, one target
+Hit, 14 (2d8+5) slashing damage

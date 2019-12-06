@@ -1,0 +1,21 @@
+~Cultist
+Medium Humanoid (Any Race), Any Non­Good Alignment
+Armour Class, 12 (Leather Armour)
+Hit Points, 9 (2d8)
+Speed, 30 ft
+Str,11 (+0)
+Dex,12 (+1)
+Con,10 (+0)
+Int,10 (+0)
+Wis,11 (+0)
+Cha,10 (+0)
+Skills, Deception +2, Religion +2
+Senses, passive Perception 10
+Languages, Any one (usually Common)
+Challenge, ⅛ (25xp)
+Traits
+Devotion, The cultist has advantage on saving throws against being charmed or frightened.
+Actions
+Scimitar ­ Melee Weapon Attack
++3 to hit, reach 5 ft, one target
+Hit, 4 (1d6+1) slashing damage

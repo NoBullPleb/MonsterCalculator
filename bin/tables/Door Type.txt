@@ -1,0 +1,10 @@
+10,Wooden
+12,Wooden locked
+13,Stone
+14,Stone locked
+15,Iron
+16,Iron locked 
+17,Portcullis
+18,Portcullis locked 
+19,Secret door
+20,Secret door locked

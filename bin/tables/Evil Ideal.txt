@@ -1,0 +1,6 @@
+1,Domination
+2,Greed
+3,Might
+4,Pain
+5,Retribution
+6,Slaughter

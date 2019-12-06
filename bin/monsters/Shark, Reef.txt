@@ -1,0 +1,23 @@
+~Shark, Reef
+Medium beast, unaligned
+Armor Class, 12 (natural armor)
+Hit Points, 22 (4d8 + 4)
+Speed, 0 ft., swim 40 ft.
+Str,14 (+2)
+Dex,13 (+1)
+Con,13 (+1)
+Int,1 (­5)
+Wis,10 (+0)
+Cha,4 (­3)
+Skills, Perception +2
+Senses, blindsight 30 ft., passive Perception 12
+Languages, —
+Challenge, 1/2 (100 XP)
+Traits
+Pack Tactics, The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is within
+5 feet of the creature and the ally isn’t incapacitated.
+Water Breathing, The shark can breathe only underwater.
+Actions
+Bite ­ Melee Weapon Attack
++4 to hit, reach 5 ft., one target.
+Hit, 6 (1d8 + 2) piercing damage.

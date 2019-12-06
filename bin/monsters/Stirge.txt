@@ -1,0 +1,21 @@
+~Stirge
+Tiny Beast, Unaligned
+Armor Class, 14 (Natural Armor)
+Hit Points, 2 (1d4)
+Speed, 10ft, Fly 40 ft
+Str,4 (­3)
+Dex,16 (+3)
+Con,11 (+0)
+Int,2 (­4)
+Wis,8 (­1)
+Cha,6 (­2)
+Senses, Darkvision 60 ft, passive Perception 9
+Languages, —
+Challenge, ⅛ (25xp)
+Actions
+Blood Drain ­ Melee Weapon Attack
++5 to hit (Reach 5 ft; One Creature).
+Hit, 5 (1d4+3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn’t attack.
+Instead, at the start of each of the stirge’s turn, the target loses 5 (1d4+3) hit points due to blood loss.
+The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of
+blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.

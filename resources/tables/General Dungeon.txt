@@ -1,0 +1,59 @@
+1, Antechamber
+3, Armory
+4, Audience Chamber
+5, Aviary
+7, Banquet Room
+10, Barracks
+11, Bath or Latrine
+12, Bedroom
+13, Beastiary
+16, Cell
+17, Chantry
+18, Chapel
+20, Cistern
+21, Classroom
+22, Closet
+24, Conjuring Room
+26, Court
+29, Crypt
+31, Dining Room
+33, Divination Room
+34, Dormitory
+35, Dressing Room
+36, Entry 
+38, Gallery
+40, Game Room
+43, Guard Room
+45, Hall
+47, Great Hall
+49, Hallway
+50, kennel
+52, kitchen
+54, Laboratory
+57, Library
+59, Lounge 
+60, meditation chamber
+61, Observatory
+62, Office
+64, Pantry
+66, prison
+68, Reception room
+70, Refectory
+71, Robing Room
+72, Salon
+74, Shrine
+76, Sitting Room
+78, Smithy
+79, Stable
+81, Storage Room
+83, Strong Room Or Vault
+85, Study
+88, Temple
+90, Throne Room
+91, Torture Chamber
+93, Training Room
+95, Trophy Room or Museum
+96, Waiting Room
+97, Nursery or schoolroom
+98, well
+100, Workshop 

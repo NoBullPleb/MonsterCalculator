@@ -1,0 +1,18 @@
+~Commoner
+Medium Humanoid (Any Race), Any Alignment
+Armour Class, 10
+Hit Points, 4 (1d8)
+Speed, 30 ft
+Str,10 (+0)
+Dex,10 (+0)
+Con,10 (+0)
+Int,10 (+0)
+Wis,10 (+0)
+Cha,10 (+0)
+Senses, passive Perception 10
+Languages, Any one (usually Common)
+Challenge, 0 (25xp)
+Actions
+Club ­ Melee Weapon Attack
++2 to hit, reach 5 ft, one target
+Hit, 2 (1d4) bludgeoning damage

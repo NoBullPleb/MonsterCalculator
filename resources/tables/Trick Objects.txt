@@ -1,0 +1,20 @@
+1,Book
+2,Brain in a jar
+3,Burning Fire
+4,Cracked Gem
+5,Door
+6,Weapon
+7,Furniture
+8,Glass Sculpture
+9,Mushroom Field
+10,Painting
+11,Plant or Tree
+12,Pool of water
+13,Runes Engraved on wall or floor
+14,Skull
+15,Sphere of magical energy
+16,Statue
+17,Stone Obelisk
+18,Suit of Armor
+19,Tapestry or Rug
+20,Target Dummy

@@ -1,0 +1,26 @@
+~Animated Armor
+Medium construct, unaligned
+Armor Class, 18 (natural Armor)
+Hit Points, 33 (6d8 + 6)
+Speed, 25 ft.
+Str,14 (+2)
+Dex,11 (+0)
+Con,13 (+1)
+Int,1 (­5)
+Wis,3 (­4)
+Cha,1 (­5)
+Damage Immunities, Poison, psychic
+Condition Immunities, Blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+Senses, Blindsight 60 ft. (blind beyond this radius), passive Perception 6
+Languages, —
+Challenge, 1 (200 XP)
+Traits
+False Appearance. While the Armor remains motionless, it is indistinguishable from a normal suit of Armor.
+Antimagic Susceptibility. The Armor is incapacitated while in the area of an antimagic field. If targeted by dispel
+magic, the Armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious
+for 1 minute.
+Actions
+Multiattack. The Armor makes two melee attacks.
+Slam ­ Melee Weapon Attack
++4 to hit, reach 5 ft., one target.
+Hit, 5 (1d6 + 2) bludgeoning damage.

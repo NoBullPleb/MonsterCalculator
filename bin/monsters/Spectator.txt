@@ -1,0 +1,40 @@
+~Spectator
+Medium Aberration, Lawful Neutral
+Armor Class, 14 (Natural Armor)
+Hit Points, 39 (6d8 + 12)
+Speed, 0 ft, Fly 30 ft
+Str,8 (­1)
+Dex,14 (+2)
+Con,14 (+2)
+Int,13 (+1)
+Wis,14 (+2)
+Cha,11 (+0)
+Skills, Perception +6
+Condition Immunities, Prone,Hover, The spectator hovers as long as it is alive.
+Senses, Darkvision 120 ft, passive Perception 16
+Languages, Deep Speech, Undercommon
+Challenge, 3 (700xp)
+Traits
+Telepathy, The spectator can communicate telepathically with any creature within 100 feet of it that can understand a
+language.
+Actions
+Bite ­ Melee Weapon Attack
++1 to hit, reach 5 ft, one target
+Hit, 2 (1d4­1) slashing damage.
+Eye Rays, The spectator uses two of the following eye rays. It can use each ray only once per turn. Each ray targets a
+creatures the spectator can see within 90 feet of it.
+1. Confusion Ray, The target must succeed on a DC13 Wisdom saving throw, or it can’t take reactions until the
+end of its next turn. On its turn, the target can’t move, and it uses its action to make a melee or ranged attack
+against a randomly determined creature within range. If the target can’t attack, it does nothing on its turn.
+2. Paralyzing Ray, The target must succeed on a DC13 Constitution saving throw or be paralyzed for 1 minute.
+The target can repeat the saving throw at the end of each of its turns, ending the effect early on a success.
+3. Fear Ray, The target must succeed on a DC13 Wisdom saving throw, or be frightened for 1 minute. The target
+can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the
+target, ending the effect early on a success.
+4. Wounding Ray, The target must succeed on a DC13 Constitution saving throw, taking 16 (3d10) necrotic
+damage on a failed save, or half as much on a successful one.
+Create Food and Water, The spectator creates enough food and water to sustain itself for 24 hours.
+Reactions
+Spell Reflection, If the spectator makes a successful saving throw against a spell, or a spell misses it, the spectator
+can choose another creature within 30 feet of it that is can see. The spell affects the chosen creature instead of the
+spectator.

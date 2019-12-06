@@ -1,0 +1,69 @@
+10,Weapon, +3
+12,Amulet of the planes
+14,Carpet of flying
+16,Crystal ball (very rare version)
+18,Adamantine armor (plate)
+20,Ring of shooting stars
+22,Ring of telekinesis
+24,Robe of scintillating colors 
+26,Robe of stars
+28,Rod of absorption
+30,Rod of alertness
+32,Rod of security
+34,Rod of the pact keeper
+36,Scimitar of speed, +3
+38,Shield, +3
+40,Staff of fire
+42,Staff of frost
+44,Staff of power
+46,Staff of striking
+48,Staff of thunder and lightning
+50,Sword of sharpness
+52,Wand of polymorph
+54,Wand of the war mage
+55,+3 Adamantine armor (half plate) 
+56,Adamantine armor (plate)
+57,Animated shield
+58,Belt of fire giant strength
+59,Belt of frost (or stone) giant strength 
+60,Adamantine armor (plate)
+61,Armor of resistance (breastplate) 
+62,Adamantine armor (plate)
+63,Armor, +2 chain mail
+64,Armor, +2 chain shirt
+65,Cloak of arachnida
+66,Dancing sword
+67,Demon armor
+68,Dragon scale mail
+69,Dwarven plate
+70,Dwarven thrower
+71,Efreeti bottle
+72,Figurine of wondrous power (obsidian steed)
+73,Frost brand
+74,Helm of brilliance
+75,Horn of Valhalla (bronze)
+76,Instrument of the bards (Anstruth harp)
+77,loun stone (absorption)
+78,loun stone (agility)
+79,loun stone (fortitude)
+80,loun stone (insight)
+81,loun stone (intellect)
+82,loun stone (leadership)
+83,loun stone (strength)
+84,Armor, +2 leather
+85,Manual of bodily health
+86,Manual of gainful exercise
+87,Manual of golems
+88,Manual of quickness of action
+89,Mirror of life trapping
+90,Nine lives stealer
+91,Oath bow
+92,Armor, +2 scale mail
+93,Spellguard shield
+94,Armor, +1 splint
+95,Armor of resistance (splint)
+96,Armor, +1 studded leather
+97,Armor of resistance (studded leather)
+98,Tome of clear thought
+99,Tome of leadership and influence
+100,Tome of understanding

@@ -1,0 +1,34 @@
+~Quasit
+Tiny fiend (demon, shapechanger), chaotic evil
+Armor Class, 13
+Hit Points, 7 (3d4)
+Speed, 40 ft. (10 ft., fly 40 ft. in bat form; 40 ft., climb 40 ft. in centipede form; 40 ft., swim 40 ft. in toad form)
+Str,5 (­3)
+Dex,17 (+3)
+Con,10 (+0)
+Int,7 (­2)
+Wis,10 (+0)
+Cha,10 (+0)
+Skills, Stealth +5
+Damage Resistances, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons
+Damage Immunities, poison
+Condition Immunities, poisoned
+Senses, darkvision 120 ft., passive Perception 10
+Languages, Abyssal, Common
+Challenge, 1 (200 XP)
+Traits
+Magic Resistance, The quasit has advantage on saving throws against spells and other magical effects.
+Shapechanger, The quasit can use its action to polymorph into the beast form of a bat, centipede, or toad, or into its
+demon form. Its statistics are the same in each form, although its attack is different in some of them. Any equipment it
+carries is not transformed. If slain, the quasit reverts to its demon form.
+Actions
+Claws (Bite in Beast Form) ­ Melee Weapon Attack
++4 to hit, reach 5 ft., one target.
+Hit, 5 (1d4 + 3) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving
+throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The creature can repeat the saving
+throw at the end of each of its turns, ending the effect early on a success.
+Scare (1/Day), One creature of the quasit’s choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw
+or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if
+the quasit is within line of sight, ending the effect early on a success.
+Invisibility, The quasit turns invisible until it attacks or uses Scare, or until its concentration ends. Anything the
+invisible quasit is carrying or wearing is invisible as long as it remains in contact with the quasit.

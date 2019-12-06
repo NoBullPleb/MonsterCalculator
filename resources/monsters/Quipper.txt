@@ -1,0 +1,21 @@
+~Quipper
+Tiny beast, unaligned
+Armor Class, 13
+Hit Points, 1 (1d4 − 1)
+Speed, 0 ft., swim 40 ft.
+Str,2 (­4)
+Dex,16 (+3)
+Con,9 (­1)
+Int,1 (­5)
+Wis,7 (­2)
+Cha,2 (­4)
+Senses, darkvision 60 ft., passive Perception 8
+Languages, —
+Challenge, 0 (10 XP)
+Traits
+Blood Frenzy, The quipper has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+Water Breathing, The quipper can breathe only underwater.
+Actions
+Bite ­ Melee Weapon Attack
++5 to hit, reach 5 ft., one target.
+Hit, 1 piercing damage.

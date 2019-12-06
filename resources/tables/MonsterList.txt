@@ -1,0 +1,420 @@
+0,Frog,0,Tiny,Beast,Unaligned,mm 322
+0,Sea Horse,0,Tiny,Beast,Unaligned,mm 337
+0,Awakened Shrub,10,Small,Plant,Unaligned,mm 317
+0,Baboon,10,Small,Beast,Unaligned,mm 318
+0,Badger,10,Tiny,Beast,Unaligned,mm 318
+0,Bat,10,Tiny,Beast,Unaligned,mm 318
+0,Cat,10,Tiny,Beast,Unaligned,mm 320
+0,Crab,10,Tiny,Beast,Unaligned,mm 320
+0,Crawling Claw,10,Tiny,Undead,NE,mm 44
+0,Deer,10,Medium,Beast,Unaligned,mm 321
+0,Eagle,10,Small,Beast,Unaligned,mm 322
+0,Giant Fire Beetle,10,Small,Beast,Unaligned,mm 325
+0,Goat,10,Medium,Beast,Unaligned,mm 330
+0,Hawk,10,Tiny,Beast,Unaligned,mm 330
+0,Homunculus,10,Tiny,Construct,N,mm 188
+0,Hyena,10,Medium,Beast,Unaligned,mm 331
+0,Jackal,10,Small,Beast,Unaligned,mm 331
+0,Lemure,10,Medium,Fiend,LE,mm 76
+0,Lizard,10,Tiny,Beast,Unaligned,mm 332
+0,Myconid Sprout,10,Small,Plant,LN,mm 230
+0,Octopus,10,Small,Beast,Unaligned,mm 333
+0,Owl,10,Tiny,Beast,Unaligned,mm 333
+0,Quipper,10,Tiny,Beast,Unaligned,mm 335
+0,Rat,10,Tiny,Beast,Unaligned,mm 335
+0,Raven,10,Tiny,Beast,Unaligned,mm 335
+0,Scorpion,10,Tiny,Beast,Unaligned,mm 337
+0,Shrieker,10,Medium,Plant,Unaligned,mm 138
+0,Spider,10,Tiny,Beast,Unaligned,mm 337
+0,Vulture,10,Medium,Beast,Unaligned,mm 339
+0,Weasel,10,Tiny,Beast,Unaligned,mm 340
+1/8,Blood Hawk,25,Small,Beast,Unaligned,mm 319
+1/8,Camel,25,Large,Beast,Unaligned,mm 320
+1/8,Flumph,25,Small,Aberration,LG,mm 135
+1/8,Flying Snake,25,Tiny,Beast,Unaligned,mm 322
+1/8,Giant Crab,25,Medium,Beast,Unaligned,mm 324
+1/8,Giant Rat,25,Small,Beast,Unaligned,mm 327
+1/8,Giant Weasel,25,Medium,Beast,Unaligned,mm 329
+1/8,Kobold,25,Small,Humanoid,LE,mm 195
+1/8,Manes,25,Small,Fiend,CE,mm 60
+1/8,Mastiff,25,Medium,Beast,Unaligned,mm 332
+1/8,Merfolk,25,Medium,Humanoid,N,mm 218
+1/8,Monodrone,25,Medium,Construct,LN,mm 224
+1/8,Mule,25,Medium,Beast,Unaligned,mm 333
+1/8,Poisonous Snake,25,Tiny,Beast,Unaligned,mm 334
+1/8,Pony,25,Medium,Beast,Unaligned,mm 335
+1/8,Slaad Tadpole,25,Tiny,Aberration,CN,mm 276
+1/8,Stirge,25,Tiny,Beast,Unaligned,mm 284
+1/8,Twig Blight,25,Small,Plant,NE,mm 32
+1/4,Aarakocra,50,Medium,Humanoid,NG,mm 12
+1/4,Axe Beak,50,Large,Beast,Unaligned,mm 317
+1/4,Blink Dog,50,Medium,Fey,LG,mm 318
+1/4,Boar,50,Medium,Beast,Unaligned,mm 319
+1/4,Bullywug,50,Medium,Humanoid,NE,mm 35
+1/4,Constrictor Snake,50,Large,Beast,Unaligned,mm 320
+1/4,Draft Horse,50,Large,Beast,Unaligned,mm 321
+1/4,Dretch,50,Small,Fiend,CE,mm 57
+1/4,Drow,50,Medium,Humanoid,NE,mm 128
+1/4,Duodrone,50,Medium,Construct,LN,mm 225
+1/4,Elk,50,Large,Beast,Unaligned,mm 322
+1/4,Flying Sword,50,Small,Construct,Unaligned,mm 20
+1/4,Giant Badger,50,Medium,Beast,Unaligned,mm 323
+1/4,Giant Bat,50,Large,Beast,Unaligned,mm 323
+1/4,Giant Centipede,50,Small,Beast,Unaligned,mm 323
+1/4,Giant Frog,50,Medium,Beast,Unaligned,mm 325
+1/4,Giant Lizard,50,Large,Beast,Unaligned,mm 326
+1/4,Giant Owl,50,Large,Beast,N,mm 327
+1/4,Giant Poisonous Snake,50,Medium,Beast,Unaligned,mm 327
+1/4,Giant Wolf Spider,50,Medium,Beast,Unaligned,mm 330
+1/4,Goblin,50,Small,Humanoid,NE,mm 166
+1/4,Grimlock,50,Medium,Humanoid,NE,mm 175
+1/4,Kenku,50,Medium,Humanoid,CN,mm 194
+1/4,Kuo-toa,50,Medium,Humanoid,NE,mm 199
+1/4,Mud Mephit,50,Small,Elemental,NE,mm 216
+1/4,Needle Blight,50,Medium,Plant,NE,mm 32
+1/4,Panther,50,Medium,Beast,Unaligned,mm 333
+1/4,Pixie,50,Tiny,Fey,NG,mm 253
+1/4,Pseudodragon,50,Tiny,Dragon,NG,mm 254
+1/4,Pteranodon,50,Medium,Beast,Unaligned,mm 80
+1/4,Riding Horse,50,Large,Beast,Unaligned,mm 336
+1/4,Skeleton,50,Medium,Undead,LE,mm 272
+1/4,Smoke Mephit,50,Small,Elemental,NE,mm 217
+1/4,Sprite,50,Tiny,Fey,NG,mm 283
+1/4,Steam Mephit,50,Small,Elemental,NE,mm 217
+1/4,Swarm of Bats,50,Medium,Beast,Unaligned,mm 337
+1/4,Swarm of Rats,50,Medium,Beast,Unaligned,mm 339
+1/4,Swarm of Ravens,50,Medium,Beast,Unaligned,mm 339
+1/4,Troglodyte,50,Medium,Humanoid,CE,mm 290
+1/4,Violet Fungus,50,Medium,Plant,Unaligned,mm 138
+1/4,Winged Kobold,50,Small,Humanoid,LE,mm 195
+1/4,Wolf,50,Medium,Beast,Unaligned,mm 341
+1/4,Zombie,50,Medium,Undead,NE,mm 316
+1/2,Ape,100,Medium,Beast,Unaligned,mm 317
+1/2,Black Bear,100,Medium,Beast,Unaligned,mm 318
+1/2,Cockatrice,100,Small,Monstrosity,Unaligned,mm 42
+1/2,Crocodile,100,Large,Beast,Unaligned,mm 320
+1/2,Darkmantle,100,Small,Monstrosity,Unaligned,mm 46
+1/2,Dust Mephit,100,Small,Elemental,NE,mm 215
+1/2,Gas Spore,100,Large,Plant,Unaligned,mm 138
+1/2,Giant Goat,100,Large,Beast,Unaligned,mm 326
+1/2,Giant Sea Horse,100,Large,Beast,Unaligned,mm 328
+1/2,Giant Wasp,100,Medium,Beast,Unaligned,mm 329
+1/2,Gnoll,100,Medium,Humanoid,CE,mm 163
+1/2,Gray Ooze,100,Medium,Ooze,Unaligned,mm 243
+1/2,Hobgoblin,100,Medium,Humanoid,LE,mm 186
+1/2,Ice Mephit,100,Small,Elemental,NE,mm 215
+1/2,Jackalwere,100,Medium,Humanoid,CE,mm 193
+1/2,Lizardfolk,100,Medium,Humanoid,N,mm 204
+1/2,Magma Mephit,100,Small,Elemental,NE,mm 216
+1/2,Magmin,100,Small,Elemental,CN,mm 212
+1/2,Myconid Adult,100,Medium,Plant,LN,mm 232
+1/2,Orc,100,Medium,Humanoid,CE,mm 246
+1/2,Piercer,100,Medium,Monstrosity,Unaligned,mm 252
+1/2,Reef Shark,100,Medium,Beast,Unaligned,mm 336
+1/2,Rust Monster,100,Medium,Monstrosity,Unaligned,mm 262
+1/2,Sahuagin,100,Medium,Humanoid,LE,mm 263
+1/2,Satyr,100,Medium,Fey,CN,mm 267
+1/2,Shadow,100,Medium,Undead,CE,mm 269
+1/2,Svirfneblin,100,Small,Humanoid,NG,mm 164
+1/2,Swarm of Insects,100,Medium,Beast,Unaligned,mm 338
+1/2,Tridrone,100,Medium,Construct,LN,mm 225
+1/2,Vine Blight,100,Medium,Plant,NE,mm 32
+1/2,Warhorse,100,Large,Beast,Unaligned,mm 340
+1/2,Warhorse Skeleton,100,Large,Undead,LE,mm 273
+1/2,Worg,100,Large,Monstrosity,NE,mm 341
+1,Animated Armor,200,Medium,Construct,Unaligned,mm 19
+1,Brass Dragon Wyrmling,200,Medium,Dragon,CG,mm 106
+1,Brown Bear,200,Large,Beast,Unaligned,mm 319
+1,Bugbear,200,Medium,Humanoid,CE,mm 33
+1,Copper Dragon Wyrmling,200,Medium,Dragon,CG,mm 112
+1,Death Dog,200,Medium,Monstrosity,NE,mm 321
+1,Dire Wolf,200,Large,Beast,Unaligned,mm 321
+1,Dryad,200,Medium,Fey,N,mm 121
+1,Duergar,200,Medium,Humanoid,LE,mm 122
+1,Fire Snake,200,Medium,Elemental,NE,mm 265
+1,Ghoul,200,Medium,Undead,CE,mm 148
+1,Giant Eagle,200,Large,Beast,NG,mm 324
+1,Giant Hyena,200,Large,Beast,Unaligned,mm 326
+1,Giant Octopus,200,Large,Beast,Unaligned,mm 326
+1,Giant Spider,200,Large,Beast,Unaligned,mm 328
+1,Giant Toad,200,Large,Beast,Unaligned,mm 329
+1,Giant Vulture,200,Large,Beast,NE,mm 329
+1,Goblin Boss,200,Small,Humanoid,NE,mm 166
+1,Half-ogre,200,Large,Giant,Any chaotic,mm 238
+1,Harpy,200,Medium,Monstrosity,CE,mm 181
+1,Hippogriff,200,Large,Monstrosity,Unaligned,mm 184
+1,Imp,200,Tiny,Fiend,LE,mm 76
+1,Kuo-toa Whip,200,Medium,Humanoid,NE,mm 200
+1,Lion,200,Large,Beast,Unaligned,mm 331
+1,Quadrone,200,Medium,Construct,LN,mm 226
+1,Quaggoth Spore Servant,200,Medium,Plant,Unaligned,mm 230
+1,Quasit,200,Tiny,Fiend,CE,mm 63
+1,Scarecrow,200,Medium,Construct,CE,mm 268
+1,Specter,200,Medium,Undead,CE,mm 279
+1,Swarm of Quippers,200,Medium,Beast,Unaligned,mm 338
+1,Thri-kreen,200,Medium,Humanoid,CN,mm 288
+1,Tiger,200,Large,Beast,Unaligned,mm 339
+1,Young Faerie Dragon,200,Tiny,Dragon,CG,mm 133
+1,Yuan-ti Pureblood,200,Medium,Humanoid,NE,mm 310
+2,Adult Faerie Dragon,450,Tiny,Dragon,CG,mm 133
+2,Allosaurus,450,Large,Beast,Unaligned,mm 79
+2,Ankheg,450,Large,Monstrosity,Unaligned,mm 21
+2,Awakened Tree,450,Huge,Plant,Unaligned,mm 317
+2,Azer,450,Medium,Elemental,LN,mm 22
+2,Black Dragon Wyrmling,450,Medium,Dragon,CE,mm 88
+2,Bronze Dragon Wyrmling,450,Medium,Dragon,LG,mm 109
+2,Carrion Crawler,450,Large,Monstrosity,Unaligned,mm 37
+2,Cave Bear,450,Large,Beast,Unaligned,mm 334
+2,Centaur,450,Large,Monstrosity,NG,mm 38
+2,Ettercap,450,Medium,Monstrosity,NE,mm 131
+2,Gargoyle,450,Medium,Elemental,CE,mm 140
+2,Gelatinous Cube,450,Large,Ooze,Unaligned,mm 242
+2,Ghast,450,Medium,Undead,CE,mm 148
+2,Giant Boar,450,Large,Beast,Unaligned,mm 323
+2,Giant Constrictor Snake,450,Huge,Beast,Unaligned,mm 324
+2,Giant Elk,450,Huge,Beast,Unaligned,mm 325
+2,Gibbering Mouther,450,Medium,Aberration,N,mm 157
+2,Githzerai Monk,450,Medium,Humanoid,LN,mm 161
+2,Gnoll Pack Lord,450,Medium,Humanoid,CE,mm 163
+2,Green Dragon Wyrmling,450,Medium,Dragon,LE,mm 95
+2,Grick,450,Medium,Monstrosity,N,mm 173
+2,Griffon,450,Large,Monstrosity,Unaligned,mm 174
+2,Hunter Shark,450,Large,Beast,Unaligned,mm 330
+2,Intellect Devourer,450,Tiny,Aberration,LE,mm 191
+2,Lizardfolk Shaman,450,Medium,Humanoid,N,mm 205
+2,Merrow,450,Large,Monstrosity,CE,mm 219
+2,Mimic,450,Medium,Monstrosity,N,mm 220
+2,Minotaur Skeleton,450,Large,Undead,LE,mm 273
+2,Myconid Sovereign,450,Large,Plant,LN,mm 232
+2,Nothic,450,Medium,Aberration,NE,mm 236
+2,Ochre Jelly,450,Large,Ooze,Unaligned,mm 243
+2,Ogre,450,Large,Giant,CE,mm 237
+2,Ogre Zombie,450,Large,Undead,NE,mm 316
+2,Orc Eye of Gruumsh,450,Medium,Humanoid,CE,mm 247
+2,Orog,450,Medium,Humanoid,CE,mm 247
+2,Pegasus,450,Large,Celestial,CG,mm 250
+2,Pentadrone,450,Large,Construct,LN,mm 226
+2,Peryton,450,Medium,Monstrosity,CE,mm 251
+2,Plesiosaurus,450,Large,Beast,Unaligned,mm 80
+2,Polar Bear,450,Large,Beast,Unaligned,mm 334
+2,Quaggoth,450,Medium,Humanoid,CN,mm 256
+2,Rhinoceros,450,Large,Beast,Unaligned,mm 336
+2,Rug of Smothering,450,Large,Construct,Unaligned,mm 20
+2,Saber-toothed Tiger,450,Large,Beast,Unaligned,mm 336
+2,Sahuagin Priestess,450,Medium,Humanoid,LE,mm 264
+2,Sea Hag,450,Medium,Fey,CE,mm 179
+2,Silver Dragon Wyrmling,450,Medium,Dragon,LG,mm 118
+2,Specter (poltergeist),450,Medium,Undead,CE,mm 279
+2,Spined Devil,450,Small,Fiend,LE,mm 78
+2,Swarm of Poisonous Snakes,450,Medium,Beast,Unaligned,mm 338
+2,Wererat,450,Medium,Humanoid,LE,mm 209
+2,White Dragon Wyrmling,450,Medium,Dragon,CE,mm 102
+2,Will-o-wisp,450,Tiny,Undead,CE,mm 301
+3,Ankylosaurus,700,Huge,Beast,Unaligned,mm 79
+3,Basilisk,700,Medium,Monstrosity,Unaligned,mm 24
+3,Bearded Devil,700,Medium,Fiend,LE,mm 70
+3,Blue Dragon Wyrmling,700,Medium,Dragon,LE,mm 91
+3,Bugbear Chief,700,Medium,Humanoid,CE,mm 33
+3,Displacer Beast,700,Large,Monstrosity,LE,mm 81
+3,Doppelganger,700,Medium,Monstrosity,N,mm 82
+3,Giant Scorpion,700,Large,Beast,Unaligned,mm 327
+3,Githyanki Warrior,700,Medium,Humanoid,LE,mm 160
+3,Gold Dragon Wyrmling,700,Medium,Dragon,LG,mm 115
+3,Green Hag,700,Medium,Fey,NE,mm 177
+3,Grell,700,Medium,Aberration,NE,mm 172
+3,Hell Hound,700,Medium,Fiend,LE,mm 182
+3,Hobgoblin Captain,700,Medium,Humanoid,LE,mm 186
+3,Hook Horror,700,Large,Monstrosity,N,mm 189
+3,Killer Whale,700,Huge,Beast,Unaligned,mm 331
+3,Manticore,700,Large,Monstrosity,LE,mm 213
+3,Minotaur,700,Large,Monstrosity,CE,mm 223
+3,Mummy,700,Medium,Undead,LE,mm 228
+3,Nightmare,700,Large,Fiend,NE,mm 235
+3,Owlbear,700,Large,Monstrosity,Unaligned,mm 249
+3,Phase Spider,700,Large,Monstrosity,Unaligned,mm 334
+3,Quaggoth Thonot,700,Medium,Humanoid,CN,mm 256
+3,Spectator,700,Medium,Aberration,LN,mm 30
+3,Water Weird,700,Large,Elemental,N,mm 299
+3,Werewolf,700,Medium,Humanoid,CE,mm 211
+3,Wight,700,Medium,Undead,NE,mm 300
+3,Winter Wolf,700,Large,Monstrosity,NE,mm 340
+3,Yeti,700,Large,Monstrosity,CE,mm 305
+3,Yuan-ti Malison,700,Medium,Monstrosity,NE,mm 309
+4,Banshee,1100,Medium,Undead,CE,mm 23
+4,Black Pudding,1100,Large,Ooze,Unaligned,mm 241
+4,Bone Naga,1100,Large,Undead,LE,mm 233
+4,Chuul,1100,Large,Aberration,CE,mm 40
+4,Couatl,1100,Medium,Celestial,LG,mm 43
+4,Elephant,1100,Huge,Beast,Unaligned,mm 322
+4,Ettin,1100,Large,Giant,CE,mm 132
+4,Flameskull,1100,Tiny,Undead,NE,mm 134
+4,Ghost,1100,Medium,Undead,Any,mm 147
+4,Gnoll Fang of Yeenoghu,1100,Medium,Fiend,CE,mm 163
+4,Helmed Horror,1100,Medium,Construct,N,mm 183
+4,Incubus,1100,Medium,Fiend,NE,mm 285
+4,Lamia,1100,Large,Monstrosity,CE,mm 201
+4,Lizard King/Queen,1100,Medium,Humanoid,CE,mm 205
+4,Orc War Chief,1100,Medium,Humanoid,CE,mm 246
+4,Red Dragon Wyrmling,1100,Medium,Dragon,CE,mm 98
+4,Shadow Demon,1100,Medium,Fiend,CE,mm 64
+4,Succubus,1100,Medium,Fiend,NE,mm 285
+4,Wereboar,1100,Medium,Humanoid,NE,mm 209
+4,Weretiger,1100,Medium,Humanoid,N,mm 210
+5,Air Elemental,1800,Large,Elemental,N,mm 124
+5,Barbed Devil,1800,Medium,Fiend,LE,mm 70
+5,Barlgura,1800,Large,Fiend,CE,mm 56
+5,Beholder Zombie,1800,Large,Undead,NE,mm 316
+5,Bulette,1800,Large,Monstrosity,Unaligned,mm 34
+5,Cambion,1800,Medium,Fiend,Any evil,mm 36
+5,Drow Elite Warrior,1800,Medium,Humanoid,NE,mm 128
+5,Earth Elemental,1800,Large,Elemental,N,mm 124
+5,Fire Elemental,1800,Large,Elemental,N,mm 125
+5,Flesh Golem,1800,Medium,Construct,N,mm 169
+5,Giant Crocodile,1800,Huge,Beast,Unaligned,mm 324
+5,Giant Shark,1800,Huge,Beast,Unaligned,mm 328
+5,Gorgon,1800,Large,Monstrosity,Unaligned,mm 171
+5,Half-Red Dragon Veteran,1800,Medium,Humanoid,Any,mm 180
+5,Hill Giant,1800,Huge,Giant,CE,mm 155
+5,Mezzoloth,1800,Medium,Fiend,NE,mm 313
+5,Night Hag,1800,Medium,Fiend,NE,mm 178
+5,Otyugh,1800,Large,Aberration,N,mm 248
+5,Red Slaad,1800,Large,Aberration,CN,mm 276
+5,Revenant,1800,Medium,Undead,N,mm 259
+5,Roper,1800,Large,Monstrosity,NE,mm 261
+5,Sahuagin Baron,1800,Large,Humanoid,LE,mm 264
+5,Salamander,1800,Large,Elemental,NE,mm 266
+5,Shambling Mound,1800,Large,Plant,Unaligned,mm 270
+5,Triceratops,1800,Huge,Beast,Unaligned,mm 80
+5,Troll,1800,Large,Giant,CE,mm 291
+5,Umber Hulk,1800,Large,Monstrosity,CE,mm 292
+5,Unicorn,1800,Large,Celestial,LG,mm 294
+5,Vampire Spawn,1800,Medium,Undead,NE,mm 298
+5,Water Elemental,1800,Large,Elemental,N,mm 125
+5,Werebear,1800,Medium,Humanoid,NG,mm 208
+5,Wraith,1800,Medium,Undead,NE,mm 302
+5,Xorn,1800,Medium,Elemental,N,mm 304
+5,Young Remorhaz,1800,Large,Monstrosity,Unaligned,mm 258
+6,Chasme,2300,Large,Fiend,CE,mm 57
+6,Chimera,2300,Large,Monstrosity,CE,mm 39
+6,Cyclops,2300,Huge,Giant,CN,mm 45
+6,Drider,2300,Large,Monstrosity,CE,mm 120
+6,Galeb Duhr,2300,Medium,Elemental,N,mm 139
+6,Githzerai Zerth,2300,Medium,Humanoid,LN,mm 161
+6,Hobgoblin Warlord,2300,Medium,Humanoid,LE,mm 187
+6,Invisible Stalker,2300,Medium,Elemental,N,mm 192
+6,Kuo-toa Archpriest,2300,Medium,Humanoid,NE,mm 200
+6,Mammoth,2300,Huge,Beast,Unaligned,mm 332
+6,Medusa,2300,Medium,Monstrosity,LE,mm 214
+6,Vrock,2300,Large,Fiend,CE,mm 64
+6,Wyvern,2300,Large,Dragon,Unaligned,mm 303
+6,Young Brass Dragon,2300,Large,Dragon,CG,mm 105
+6,Young White Dragon,2300,Large,Dragon,CE,mm 101
+7,Blue Slaad,2900,Large,Aberration,CN,mm 276
+7,Drow Mage,2900,Medium,Humanoid,NE,mm 129
+7,Giant Ape,2900,Huge,Beast,Unaligned,mm 323
+7,Grick Alpha,2900,Large,Monstrosity,N,mm 173
+7,Mind Flayer,2900,Medium,Aberration,LE,mm 222
+7,Oni,2900,Large,Giant,LE,mm 239
+7,Shield Guardian,2900,Large,Construct,Unaligned,mm 271
+7,Stone Giant,2900,Huge,Giant,N,mm 156
+7,Young Black Dragon,2900,Large,Dragon,CE,mm 88
+7,Young Copper Dragon,2900,Large,Dragon,CG,mm 111
+7,Yuan-ti Abomination,2900,Large,Monstrosity,NE,mm 308
+8,Chain Devil,3900,Medium,Fiend,LE,mm 72
+8,Cloaker,3900,Large,Aberration,CN,mm 41
+8,Drow Priestess of Lolth,3900,Medium,Humanoid,NE,mm 129
+8,Fomorian,3900,Huge,Giant,CE,mm 136
+8,Frost Giant,3900,Huge,Giant,NE,mm 155
+8,Githyanki Knight,3900,Medium,Humanoid,LE,mm 160
+8,Green Slaad,3900,Large,Aberration,CN,mm 277
+8,Hezrou,3900,Large,Fiend,CE,mm 60
+8,Hydra,3900,Huge,Monstrosity,Unaligned,mm 190
+8,Mind Flayer Arcanist,3900,Medium,Aberration,LE,mm 222
+8,Spirit Naga,3900,Large,Monstrosity,CE,mm 234
+8,Tyrannosaurus Rex,3900,Huge,Beast,Unaligned,mm 80
+8,Young Bronze Dragon,3900,Large,Dragon,LG,mm 108
+8,Young Green Dragon,3900,Large,Dragon,LE,mm 94
+9,Abominable Yeti,5000,Huge,Monstrosity,CE,mm 306
+9,Bone Devil,5000,Large,Fiend,LE,mm 71
+9,Clay Golem,5000,Large,Construct,Unaligned,mm 168
+9,Cloud Giant,5000,Huge,Giant,NG or NE,mm 154
+9,Fire Giant,5000,Huge,Giant,LE,mm 154
+9,Glabrezu,5000,Large,Fiend,CE,mm 58
+9,Gray Slaad,5000,Medium,Aberration,CN,mm 277
+9,Nycaloth,5000,Large,Fiend,NE,mm 314
+9,Treant,5000,Huge,Plant,CG,mm 289
+9,Young Blue Dragon,5000,Large,Dragon,LE,mm 91
+9,Young Silver Dragon,5000,Large,Dragon,LG,mm 118
+10,Aboleth,5900,Large,Aberration,LE,mm 13
+10,Death Slaad,5900,Medium,Aberration,CE,mm 278
+10,Deva,5900,Medium,Celestial,LG,mm 16
+10,Guardian Naga,5900,Large,Monstrosity,LG,mm 234
+10,Stone Golem,5900,Large,Construct,Unaligned,mm 170
+10,Yochlol,5900,Medium,Fiend,CE,mm 65
+10,Young Gold Dragon,5900,Large,Dragon,LG,mm 115
+10,Young Red Dragon,5900,Large,Dragon,CE,mm 98
+11,Behir,7200,Huge,Monstrosity,NE,mm 25
+11,Dao,7200,Large,Elemental,NE,mm 143
+11,Djinni,7200,Large,Elemental,CG,mm 144
+11,Efreeti,7200,Large,Elemental,LE,mm 145
+11,Gynosphinx,7200,Large,Monstrosity,LN,mm 282
+11,Horned Devil,7200,Large,Fiend,LE,mm 74
+11,Marid,7200,Large,Elemental,CN,mm 146
+11,Remorhaz,7200,Huge,Monstrosity,Unaligned,mm 258
+11,Roc,7200,Gargantuan,Monstrosity,Unaligned,mm 260
+12,Arcanaloth,8400,Medium,Fiend,NE,mm 313
+12,Erinyes,8400,Medium,Fiend,LE,mm 73
+13,Adult Brass Dragon,10000,Huge,Dragon,CG,mm 105
+13,Adult White Dragon,10000,Huge,Dragon,CE,mm 101
+13,Beholder,10000,Large,Aberration,LE,mm 28
+13,Nalfeshnee,10000,Large,Fiend,CE,mm 62
+13,Rakshasa,10000,Medium,Fiend,LE,mm 257
+13,Storm Giant,10000,Huge,Giant,CG,mm 156
+13,Ultroloth,10000,Medium,Fiend,NE,mm 314
+13,Vampire,10000,Medium,Undead,LE,mm 297
+13,Young Red Shadow Dragon,10000,Large,Dragon,CE,mm 85
+14,Adult Black Dragon,11500,Huge,Dragon,CE,mm 88
+14,Adult Copper Dragon,11500,Huge,Dragon,CG,mm 111
+14,Beholder (in lair),11500,Large,Aberration,LE,mm 28
+14,Death Tyrant,11500,Large,Undead,LE,mm 29
+14,Ice Devil,11500,Large,Fiend,LE,mm 75
+15,Adult Bronze Dragon,13000,Huge,Dragon,LG,mm 108
+15,Adult Green Dragon,13000,Huge,Dragon,LE,mm 94
+15,Death Tyrant (in lair),13000,Large,Undead,LE,mm 29
+15,Mummy Lord,13000,Medium,Undead,LE,mm 229
+15,Purple Worm,13000,Gargantuan,Monstrosity,Unaligned,mm 255
+15,Vampire (spellcaster),13000,Medium,Undead,LE,mm 297
+15,Vampire (warrior),13000,Medium,Undead,LE,mm 297
+16,Adult Blue Dragon,15000,Huge,Dragon,LE,mm 91
+16,Adult Silver Dragon,15000,Huge,Dragon,LG,mm 117
+16,Iron Golem,15000,Large,Construct,Unaligned,mm 170
+16,Marilith,15000,Large,Fiend,CE,mm 61
+16,Mummy Lord (in lair),15000,Medium,Undead,LE,mm 229
+16,Planetar,15000,Large,Celestial,LG,mm 17
+17,Adult Blue Dracolich,18000,Huge,Undead,LE,mm 84
+17,Adult Gold Dragon,18000,Huge,Dragon,LG,mm 114
+17,Adult Red Dragon,18000,Huge,Dragon,CE,mm 98
+17,Androsphinx,18000,Large,Monstrosity,LN,mm 281
+17,Death Knight,18000,Medium,Undead,CE,mm 47
+17,Dragon Turtle,18000,Gargantuan,Dragon,N,mm 119
+17,Goristro,18000,Huge,Fiend,CE,mm 59
+18,Demilich,20000,Tiny,Undead,NE,mm 48
+19,Balor,22000,Huge,Fiend,CE,mm 55
+20,Ancient Brass Dragon,24500,Gargantuan,Dragon,CG,mm 104
+20,Ancient White Dragon,24500,Gargantuan,Dragon,CE,mm 100
+20,Demilich (in lair),24500,Tiny,Undead,NE,mm 48
+20,Pit Fiend,25000,Large,Fiend,LE,mm 77
+21,Ancient Black Dragon,27500,Gargantuan,Dragon,CE,mm 87
+21,Ancient Copper Dragon,27500,Gargantuan,Dragon,CG,mm 110
+21,Lich,33000,Medium,Undead,Any evil,mm 202
+21,Solar,33000,Large,Celestial,LG,mm 18
+22,Ancient Bronze Dragon,30000,Gargantuan,Dragon,LG,mm 107
+22,Ancient Green Dragon,30000,Gargantuan,Dragon,LE,mm 93
+22,Lich (in lair),41000,Medium,Undead,Any evil,mm 202
+23,Ancient Blue Dragon,32500,Gargantuan,Dragon,LE,mm 90
+23,Ancient Silver Dragon,32500,Gargantuan,Dragon,LG,mm 116
+23,Empyrean,32500,Huge,Celestial,CG or NE,mm 130
+23,Kraken,50000,Gargantuan,Monstrosity,CE,mm 197
+24,Ancient Gold Dragon,36500,Gargantuan,Dragon,LG,mm 113
+24,Ancient Red Dragon,36500,Gargantuan,Dragon,CE,mm 97
+30,Tarrasque,155000,Gargantuan,Monstrosity,Unaligned,mm 286

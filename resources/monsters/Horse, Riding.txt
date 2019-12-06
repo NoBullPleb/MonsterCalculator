@@ -1,0 +1,18 @@
+~Horse, Riding
+Large beast, unaligned
+Armor Class, 10
+Hit Points, 13 (2d10 + 2)
+Speed, 60 ft.
+Str,16 (+3)
+Dex,10 (+0)
+Con,12 (+1)
+Int,2 (­4)
+Wis,11 (+0)
+Cha,7 (­2)
+Senses, passive Perception 10
+Languages, —
+Challenge, 1/4 (50 XP)
+Actions
+Hooves ­ Melee Weapon Attack
++2 to hit, reach 5 ft., one target.
+Hit, 8 (2d4 + 3) bludgeoning damage.

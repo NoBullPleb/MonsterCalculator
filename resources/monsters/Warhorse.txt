@@ -1,0 +1,41 @@
+~Warhorse
+Large beast, unaligned
+Armor Class, 11
+Hit Points, 19 (3d10 + 3)
+Speed, 60 ft.
+Str,18 (+4)
+Dex,12 (+1)
+Con,13 (+1)
+Int,2 (­4)
+Wis,12 (+1)
+Cha,7 (­2)
+Senses, passive Perception 11
+Languages, —
+Challenge, 1/2 (100 XP)
+Traits
+Trampling Charge, If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack
+on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is
+prone, the horse can make another attack with its hooves against it as a bonus action.
+Actions
+Hooves ­ Melee Weapon Attack
++4 to hit, reach 5 ft., one target.
+Hit, 11 (2d6 + 4) bludgeoning damage
+Variants
+WarHorse Armor, An Armored warhorse has an Armor Class based on the type of barding worn (see chapter 5 for
+more information on barding). Its Armor Class includes the horse’s Dexterity modifier, where applicable.
+AC
+Barding
+12
+Leather
+13
+Studded Leather
+14
+Ring Mail
+15
+Scale Mail
+16
+Chain Mail
+17
+Splint
+18
+Plate

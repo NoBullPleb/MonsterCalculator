@@ -1,0 +1,191 @@
+
+Allosaurus
+Ambush Drake
+Animated Armor
+Ankylosaurus
+Ape, Giant
+Ape
+Assassin
+Awakened Shrub
+Awakened Tree
+Axe Beak
+Baboon
+Badger, Giant
+Badger
+Bandit
+Banshee
+Basilisk
+Bat, Giant
+Bat
+Bear, Black
+Bear, Brown
+Bear, Polar
+Berserker
+Blink Dog
+Blood Hawk
+Boar, Giant
+Boar
+Bugbear
+Bullywug
+Camel
+Cat
+Centaur
+Centipede, Giant
+Chimera
+Cockatrice
+Commoner
+Constrictor Snake, Giant
+Constrictor Snake
+Crab, Giant
+Crab
+Crocodile, Giant
+Crocodile
+Cultist
+Cyclops
+Death Dog
+Deer
+Doppelganger
+Dragon, Blue, Adult
+Dragon, Green, Young
+Dragon, Red, Adult
+Dragon, White, Adult
+Eagle
+Earth Elemental
+Elemental, Air
+Elemental, Fire
+Elemental, Water
+Elephant
+Elk, Giant
+Elk
+Ettercap
+Fire Beetle, Giant
+Flameskull
+Flying Snake
+Flying Sword
+Frog, Giant
+Frog
+Gargoyle
+Ghost
+Ghoul
+Giant Eagle
+Giant, Fire
+Giant, Frost
+Giant, Hill
+Giant, Stone
+Gnoll
+Goat, Giant
+Goat
+Goblin
+Golem, Flesh
+Golem, Stone
+Gray Ooze
+Grick
+Griffon
+Guard Drake
+Half­Dragon
+Harpy
+Hawk
+Hell Hound
+Helmed Horror
+Hippogriff
+Hobgoblin Captain
+Hobgoblin
+Horse, Draft
+Horse, Riding
+Hydra
+Hyena
+Imp
+Jackal
+Killer Whale
+Knight
+Kobold, Winged
+Kobold
+Lion
+Lizard, Giant
+Lizard
+Lizardfolk
+Mage
+Mammoth
+Manticore
+Mastiff
+Medusa
+Merfolk
+Minotaur
+Mule
+Mummy
+Noble
+Nothic
+Ochre Jelly
+Ogre
+Orc
+Otyugh
+Owl, Giant
+Owl
+Owlbear
+Panther
+Pegasus
+Peryton
+Phase Spider
+Poisonous Snake
+Pony
+Priest
+Pseudodragon
+Pteranodon
+Quasit
+Quipper
+Rat, Giant
+Rat
+Raven
+Rhinoceros
+Roper
+Ruffian
+Rug of Smothering
+Saber­Toothed Tiger
+Satyr
+Scout
+Sea Horse, Giant
+Sea Horse
+Shambling Mound
+Shark, Giant
+Shark, Hunter
+Shark, Reef
+Skeleton
+Spectator
+Specter
+Spider, Giant
+Spider
+Sprite
+Spy
+Stirge
+Swarm of Bats
+Swarm of Insects
+Swarm of Poisonous Snakes
+Swarm of Quippers
+Swarm of Rats
+Swarm of Ravens
+Thug
+Tiger
+Triceratops
+Troglodyte
+Troll
+Twig Blight
+Tyrannosaurus Rex
+Vampire Spawn
+Vampire
+Veteran
+Violet Fungus
+Vulture
+Warhorse
+Wasp, Giant
+Weasel, Giant
+Weasel
+Werewolf
+Wight
+Will­o’­Wisp
+Winter Wolf
+Wolf Spider, Giant
+Wolf, Dire
+Wolf
+Worg
+Wyvern
+Yeti

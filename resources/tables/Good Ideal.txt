@@ -1,0 +1,6 @@
+1,Beauty
+2,Charity
+3,Greater good 
+4,Life
+5,Respect
+6,Self-sacrifice

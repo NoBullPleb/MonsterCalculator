@@ -1,0 +1,21 @@
+~Violet Fungus
+Medium plant, unaligned
+Armor Class, 5
+Hit Points, 18 (4d8)
+Speed, 5 ft.
+Str,3 (­4)
+Dex,1 (­5)
+Con,10 (+0)
+Int,1 (­5)
+Wis,3 (­4)
+Cha,1 (­5)
+Condition Immunities, blinded, deafened, frightened,False Appearance, While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
+Senses, blindsight 30 ft. (blind beyond this radius), passive Perception 6
+Languages, —
+Challenge, 1/4 (50 XP)
+Traits
+Multiattack, The fungus makes 1d4 Rotting Touch attacks.
+Actions
+Rotting Touch ­ Melee Weapon Attack
++2 to hit, reach 10 ft., one creature.
+Hit, 4 (1d8) necrotic damage.

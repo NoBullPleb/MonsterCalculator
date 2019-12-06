@@ -1,0 +1,404 @@
+0, Acid Splash, Conjuration, phb 211
+0, Blade Ward, Abjuration, phb 218
+0, Chill Touch, Necromancy, phb 221
+0, Control Flames, Transmutation, ee 16
+0, Create Bonfire, Conjuration, ee 16
+0, Dancing Lights, Evocation, phb 230
+0, Druidcraft, Transmutation, phb 236
+0, Eldritch Blast, Evocation, phb 237
+0, Fire Bolt, Evocation, phb 242
+0, Friends, Enchantment, phb 244
+0, Frostbite, Evocation, ee 18
+0, Guidance, Divination, phb 248
+0, Gust, Transmutation, ee 19
+0, Light, Evocation, phb 255
+0, Mage Hand, Conjuration, phb 256
+0, Magic Stone, Transmutation, ee 20
+0, Mending, Transmutation, phb 259
+0, Message, Transmutation, phb 259
+0, Minor Illusion, Illusion, phb 260
+0, Mold Earth, Transmutation, ee 21
+0, Poison Spray, Conjuration, phb 266
+0, Prestidigitation, Transmutation, phb 267
+0, Produce Flame, Conjuration, phb 269
+0, Ray of Frost, Evocation, phb 271
+0, Resistance, Abjuration, phb 272
+0, Sacred Flame, Evocation, phb 272
+0, Shape Water, Transmutation, ee 21
+0, Shillelagh, Transmutation, phb 275
+0, Shocking Grasp, Evocation, phb 275
+0, Spare the Dying, Necromancy, phb 277
+0, Thaumaturgy, Transmutation, phb 282
+0, Thorn Whip, Transmutation, phb 282
+0, Thunderclap, Evocation, ee 22
+0, True Strike, Divination, phb 284
+0, Vicious Mockery, Enchantment, phb 285
+1, Absorb Elements, Abjuration, ee 15
+1, Alarm, Abjuration, phb 211
+1, Animal Friendship, Enchantment, phb 212
+1, Armor of Agathys, Abjuration, phb 215
+1, Arms of Hadar, Conjuration, phb 215
+1, Bane, Enchantment, phb 216
+1, Beast Bond, Divination, ee 15
+1, Bless, Enchantment, phb 219
+1, Burning Hands, Evocation, phb 220
+1, Catapult, Transmutation, ee 15
+1, Charm Person, Enchantment, phb 221
+1, Chromatic Orb, Evocation, phb 221
+1, Color Spray, Illusion, phb 222
+1, Command, Enchantment, phb 223
+1, Compelled Duel, Enchantment, phb 224
+1, Comprehend Languages, Divination, phb 224
+1, Create or Destroy Water, Transmutation, phb 229
+1, Cure Wounds, Evocation, phb 230
+1, Detect Evil and Good, Divination, phb 231
+1, Detect Magic, Divination, phb 231
+1, Detect Poison and Disease, Divination, phb 231
+1, Disguise Self, Illusion, phb 233
+1, Dissonant Whispers, Enchantment, phb 234
+1, Divine Favor, Evocation, phb 234
+1, Earth Tremor, Evocation, ee 17
+1, Ensnaring Strike, Conjuration, phb 237
+1, Entangle, Conjuration, phb 238
+1, Expeditious Retreat, Transmutation, phb 238
+1, Faerie Fire, Evocation, phb 239
+1, False Life, Necromancy, phb 239
+1, Feather Fall, Transmutation, phb 239
+1, Find Familiar, Conjuration, phb 240
+1, Fog Cloud, Conjuration, phb 243
+1, Goodberry, Transmutation, phb 246
+1, Grease, Conjuration, phb 246
+1, Guiding Bolt, Evocation, phb 248
+1, Hail of Thorns, Conjuration, phb 249
+1, Healing Word, Evocation, phb 250
+1, Hellish Rebuke, Evocation, phb 250
+1, Heroism, Enchantment, phb 250
+1, Hex, Enchantment, phb 251
+1, Hunter's Mark, Divination, phb 251
+1, Ice Knife, Conjuration, ee 19
+1, Identify, Divination, phb 252
+1, Illusory Script, Illusion, phb 252
+1, Inflict Wounds, Necromancy, phb 253
+1, Jump, Transmutation, phb 254
+1, Longstrider, Transmutation, phb 256
+1, Mage Armor, Abjuration, phb 256
+1, Magic Missile, Evocation, phb 257
+1, Protection from Evil and Good, Abjuration, phb 270
+1, Purify Food and Drink, Transmutation, phb 270
+1, Ray of Sickness, Necromancy, phb 271
+1, Sanctuary, Abjuration, phb 272
+1, Searing Smite, Evocation, phb 274
+1, Shield, Abjuration, phb 275
+1, Shield of Faith, Abjuration, phb 275
+1, Silent Image, Illusion, phb 276
+1, Sleep, Enchantment, phb 276
+1, Speak with Animals, Divination, phb 277
+1, Tasha's Hideous Laughter, Enchantment, phb 280
+1, Tenser's Floating Disk, Conjuration, phb 282
+1, Thunderous Smite, Evocation, phb 282
+1, Thunderwave, Evocation, phb 282
+1, Unseen Servant, Conjuration, phb 284
+1, Witch Bolt, Evocation, phb 289
+1, Wrathful Smite, Evocation, phb 289
+2, Aganazzar's Scorcher, Evocation, ee 15
+2, Aid, Abjuration, phb 211
+2, Alter Self, Transmutation, phb 211
+2, Animal Messenger, Enchantment, phb 212
+2, Arcane Lock, Abjuration, phb 215
+2, Augury, Divination, phb 215
+2, Barkskin, Transmutation, phb 217
+2, Beast Sense, Divination, phb 217
+2, Blindness/Deafness, Necromancy, phb 219
+2, Blur, Illusion, phb 219
+2, Branding Smite, Evocation, phb 219
+2, Calm Emotions, Enchantment, phb 221
+2, Cloud of Daggers, Conjuration, phb 222
+2, Continual Flame, Evocation, phb 227
+2, Cordon of Arrows, Transmutation, phb 228
+2, Crown of Madness, Enchantment, phb 229
+2, Darkness, Evocation, phb 230
+2, Darkvision, Transmutation, phb 230
+2, Detect Thoughts, Divination, phb 231
+2, Dust Devil, Conjuration, ee 17
+2, Earthbind, Transmutation, ee 17
+2, Enhance Ability, Transmutation, phb 237
+2, Enlarge/Reduce, Transmutation, phb 237
+2, Enthrall, Enchantment, phb 238
+2, Find Steed, Conjuration, phb 240
+2, Find Traps, Divination, phb 241
+2, Flame Blade, Evocation, phb 242
+2, Flaming Sphere, Conjuration, phb 242
+2, Gentle Repose, Necromancy, phb 245
+2, Gust of Wind, Evocation, phb 248
+2, Heat Metal, Transmutation, phb 250
+2, Hold Person, Enchantment, phb 251
+2, Invisibility, Illusion, phb 254
+2, Knock, Transmutation, phb 254
+2, Lesser Restoration, Abjuration, phb 255
+2, Levitate, Transmutation, phb 255
+2, Locate Animals or Plants, Divination, phb 256
+2, Locate Object, Divination, phb 256
+2, Magic Mouth, Illusion, phb 257
+2, Magic Weapon, Transmutation, phb 257
+2, Maximilian's Earthen Grasp, Transmutation, ee 20
+2, Melf's Acid Arrow, Evocation, phb 259
+2, Mirror Image, Illusion, phb 260
+2, Misty Step, Conjuration, phb 260
+2, Moonbeam, Evocation, phb 261
+2, Nystul's Magic Aura, Illusion, phb 263
+2, Pass without Trace, Abjuration, phb 264
+2, Phantasmal Force, Illusion, phb 264
+2, Prayer of Healing, Evocation, phb 267
+2, Protection from Poison, Abjuration, phb 270
+2, Pyrotechnics, Transmutation, ee 21
+2, Ray of Enfeeblement, Necromancy, phb 271
+2, Rope Trick, Transmutation, phb 272
+2, Scorching Ray, Evocation, phb 273
+2, See Invisibility, Divination, phb 274
+2, Shatter, Evocation, phb 275
+2, Silence, Illusion, phb 275
+2, Skywrite, Transmutation, ee 22
+2, Snilloc's Snowball Swarm, Evocation, ee 22
+2, Spider Climb, Transmutation, phb 277
+2, Spike Growth, Transmutation, phb 277
+2, Spiritual Weapon, Evocation, phb 278
+2, Suggestion, Enchantment, phb 279
+2, Warding Bond, Abjuration, phb 287
+2, Warding Wind, Evocation, ee 23
+2, Web, Conjuration, phb 287
+2, Zone of Truth, Enchantment, phb 289
+3, Animate Dead, Necromancy, phb 212
+3, Aura of Vitality, Evocation, phb 216
+3, Beacon of Hope, Abjuration, phb 217
+3, Bestow Curse, Necromancy, phb 218
+3, Blinding Smite, Evocation, phb 219
+3, Blink, Transmutation, phb 219
+3, Call Lightning, Conjuration, phb 220
+3, Clairvoyance, Divination, phb 222
+3, Conjure Animals, Conjuration, phb 225
+3, Conjure Barrage, Conjuration, phb 225
+3, Counterspell, Abjuration, phb 228
+3, Create Food and Water, Conjuration, phb 229
+3, Crusader's Mantle, Evocation, phb 230
+3, Daylight, Evocation, phb 230
+3, Dispel Magic, Abjuration, phb 234
+3, Elemental Weapon, Transmutation, phb 237
+3, Erupting Earth, Transmutation, ee 17
+3, Fear, Illusion, phb 239
+3, Feign Death, Necromancy, phb 240
+3, Fireball, Evocation, phb 241
+3, Flame Arrows, Transmutation, ee 18
+3, Fly, Transmutation, phb 243
+3, Gaseous Form, Transmutation, phb 244
+3, Glyph of Warding, Abjuration, phb 245
+3, Haste, Transmutation, phb 250
+3, Hunger of Hadar, Conjuration, phb 251
+3, Hypnotic Pattern, Illusion, phb 252
+3, Leomund's Tiny Hut, Evocation, phb 255
+3, Lightning Arrow, Transmutation, phb 255
+3, Lightning Bolt, Evocation, phb 255
+3, Magic Circle, Abjuration, phb 256
+3, Major Image, Illusion, phb 258
+3, Mass Healing Word, Evocation, phb 258
+3, Meld into Stone, Transmutation, phb 259
+3, Melf's Minute Meteors, Evocation, ee 20
+3, Nondetection, Abjuration, phb 263
+3, Phantom Steed, Illusion, phb 265
+3, Plant Growth, Transmutation, phb 266
+3, Protection from Energy, Abjuration, phb 270
+3, Remove Curse, Abjuration, phb 271
+3, Revivify, Conjuration, phb 272
+3, Sending, Evocation, phb 274
+3, Sleet Storm, Conjuration, phb 276
+3, Slow, Transmutation, phb 277
+3, Speak with Dead, Necromancy, phb 277
+3, Speak with Plants, Transmutation, phb 277
+3, Spirit Guardians, Conjuration, phb 278
+3, Stinking Cloud, Conjuration, phb 278
+3, Tidal Wave, Conjuration, ee 22
+3, Tongues, Divination, phb 283
+3, Vampiric Touch, Necromancy, phb 285
+3, Wall of Sand, Evocation, ee 23
+3, Wall of Water, Evocation, ee 23
+3, Water Breathing, Transmutation, phb 287
+3, Water Walk, Transmutation, phb 287
+3, Wind Wall, Evocation, phb 288
+4, Arcane Eye, Divination, phb 214
+4, Aura of Life, Abjuration, phb 216
+4, Aura of Purity, Abjuration, phb 216
+4, Banishment, Abjuration, phb 217
+4, Blight, Necromancy, phb 219
+4, Compulsion, Enchantment, phb 224
+4, Confusion, Enchantment, phb 224
+4, Conjure Minor Elementals, Conjuration, phb 226
+4, Conjure Woodland Beings, Conjuration, phb 226
+4, Control Water, Transmutation, phb 227
+4, Death Ward, Abjuration, phb 230
+4, Dimension Door, Conjuration, phb 233
+4, Divination, Divination, phb 234
+4, Dominate Beast, Enchantment, phb 234
+4, Elemental Bane, Transmutation, ee 17
+4, Evard's Black Tentacles, Conjuration, phb 238
+4, Fabricate, Transmutation, phb 239
+4, Fire Shield, Evocation, phb 242
+4, Freedom of Movement, Abjuration, phb 244
+4, Giant Insect, Transmutation, phb 245
+4, Grasping Vine, Conjuration, phb 246
+4, Greater Invisibility, Illusion, phb 246
+4, Guardian of Faith, Conjuration, phb 246
+4, Hallucinatory Terrain, Illusion, phb 249
+4, Ice Storm, Evocation, phb 252
+4, Leomund's Secret Chest, Conjuration, phb 254
+4, Locate Creature, Divination, phb 256
+4, Mordenkainen's Faithful Hound, Conjuration, phb 261
+4, Mordenkainen's Private Sanctum, Abjuration, phb 262
+4, Otiluke's Resilient Sphere, Evocation, phb 264
+4, Phantasmal Killer, Illusion, phb 265
+4, Polymorph, Transmutation, phb 266
+4, Staggering Smite, Evocation, phb 278
+4, Stone Shape, Transmutation, phb 278
+4, Stoneskin, Abjuration, phb 278
+4, Storm Sphere, Evocation, ee 22
+4, Vitriolic Sphere, Evocation, ee 23
+4, Wall of Fire, Evocation, phb 285
+4, Watery Sphere, Conjuration, ee 23
+5, Animate Objects, Transmutation, phb 213
+5, Antilife Shell, Abjuration, phb 213
+5, Awaken, Transmutation, phb 216
+5, Banishing Smite, Abjuration, phb 216
+5, Bigby's Hand, Evocation, phb 218
+5, Circle of Power, Abjuration, phb 221
+5, Cloudkill, Conjuration, phb 222
+5, Commune, Divination, phb 223
+5, Commune with Nature, Divination, phb 224
+5, Cone of Cold, Evocation, phb 224
+5, Conjure Elemental, Conjuration, phb 225
+5, Conjure Volley, Conjuration, phb 226
+5, Contact Other Plane, Divination, phb 226
+5, Contagion, Necromancy, phb 227
+5, Control Winds, Transmutation, ee 16
+5, Creation, Illusion, phb 229
+5, Destructive Smite, Evocation, phb 231
+5, Dispel Evil and Good, Abjuration, phb 233
+5, Dominate Person, Enchantment, phb 235
+5, Dream, Illusion, phb 236
+5, Flame Strike, Evocation, phb 242
+5, Geas, Enchantment, phb 244
+5, Greater Restoration, Abjuration, phb 246
+5, Hallow, Evocation, phb 249
+5, Hold Monster, Enchantment, phb 251
+5, Immolation, Evocation, ee 19
+5, Insect Plague, Conjuration, phb 254
+5, Legend Lore, Divination, phb 254
+5, Maelstrom, Evocation, ee 20
+5, Mass Cure Wounds, Conjuration, phb 258
+5, Mislead, Illusion, phb 260
+5, Modify Memory, Enchantment, phb 261
+5, Passwall, Transmutation, phb 264
+5, Planar Binding, Abjuration, phb 265
+5, Raise Dead, Necromancy, phb 270
+5, Rary's Telepathic Bond, Divination, phb 270
+5, Reincarnate, Transmutation, phb 271
+5, Scrying, Divination, phb 273
+5, Seeming, Illusion, phb 274
+5, Swift Quiver, Transmutation, phb 279
+5, Telekinesis, Transmutation, phb 280
+5, Teleportation Circle, Conjuration, phb 282
+5, Transmute Rock, Transmutation, ee 22
+5, Tree Stride, Conjuration, phb 283
+5, Wall of Force, Evocation, phb 285
+5, Wall of Stone, Evocation, phb 287
+6, Arcane Gate, Conjuration, phb 214
+6, Blade Barrier, Evocation, phb 218
+6, Bones of the Earth, Transmutation, ee 15
+6, Chain Lightning, Evocation, phb 221
+6, Circle of Death, Necromancy, phb 221
+6, Conjure Fey, Conjuration, phb 226
+6, Contingency, Evocation, phb 227
+6, Create Undead, Necromancy, phb 229
+6, Disintegrate, Transmutation, phb 233
+6, Drawmij's Instant Summons, Conjuration, phb 235
+6, Eyebite, Necromancy, phb 238
+6, Find the Path, Divination, phb 240
+6, Flesh to Stone, Transmutation, phb 243
+6, Forbiddance, Abjuration, phb 243
+6, Globe of Invulnerability, Abjuration, phb 245
+6, Guards and Wards, Abjuration, phb 248
+6, Harm, Necromancy, phb 249
+6, Heal, Evocation, phb 250
+6, Heroes' Feast, Conjuration, phb 250
+6, Investiture of Flame, Transmutation, ee 19
+6, Investiture of Ice, Transmutation, ee 19
+6, Investiture of Stone, Transmutation, ee 19
+6, Investiture of Wind, Transmutation, ee 20
+6, Magic Jar, Necromancy, phb 257
+6, Mass Suggestion, Enchantment, phb 258
+6, Move Earth, Transmutation, phb 263
+6, Otiluke's Freezing Sphere, Evocation, phb 263
+6, Otto's Irresistible Dance, Enchantment, phb 264
+6, Planar Ally, Conjuration, phb 265
+6, Primordial Ward, Abjuration, ee 21
+6, Programmed Illusion, Illusion, phb 269
+6, Sunbeam, Evocation, phb 279
+6, Transport via Plants, Conjuration, phb 283
+6, True Seeing, Divination, phb 284
+6, Wall of Ice, Evocation, phb 285
+6, Wall of Thorns, Conjuration, phb 287
+6, Wind Walk, Transmutation, phb 288
+6, Word of Recall, Conjuration, phb 289
+7, Conjure Celestial, Conjuration, phb 225
+7, Delayed Blast Fireball, Evocation, phb 230
+7, Divine Word, Evocation, phb 234
+7, Etherealness, Transmutation, phb 238
+7, Finger of Death, Necromancy, phb 241
+7, Fire Storm, Evocation, phb 242
+7, Forcecage, Evocation, phb 243
+7, Mirage Arcane, Illusion, phb 260
+7, Mordenkainen's Magnificent Mansion, Conjuration, phb 261
+7, Mordenkainen's Sword, Evocation, phb 262
+7, Plane Shift, Conjuration, phb 266
+7, Prismatic Spray, Evocation, phb 267
+7, Project Image, Illusion, phb 270
+7, Regenerate, Transmutation, phb 271
+7, Resurrection, Necromancy, phb 272
+7, Reverse Gravity, Transmutation, phb 272
+7, Sequester, Transmutation, phb 274
+7, Simulacrum, Illusion, phb 276
+7, Symbol, Abjuration, phb 280
+7, Teleport, Conjuration, phb 281
+7, Whirlwind, Evocation, ee 24
+8, Abi-Dalzim's Horrid Wilting, Necromancy, ee 15
+8, Animal Shapes, Transmutation, phb 212
+8, Antimagic Field, Abjuration, phb 213
+8, Antipathy/Sympathy, Enchantment, phb 214
+8, Clone, Necromancy, phb 222
+8, Control Weather, Transmutation, phb 228
+8, Demiplane, Conjuration, phb 231
+8, Dominate Monster, Enchantment, phb 235
+8, Earthquake, Evocation, phb 236
+8, Feeblemind, Enchantment, phb 239
+8, Glibness, Transmutation, phb 245
+8, Holy Aura, Abjuration, phb 251
+8, Incendiary Cloud, Conjuration, phb 253
+8, Maze, Conjuration, phb 258
+8, Mind Blank, Abjuration, phb 259
+8, Power Word Stun, Enchantment, phb 267
+8, Sunburst, Evocation, phb 279
+8, Telepathy, Evocation, phb 281
+8, Tsunami, Conjuration, phb 284
+9, Astral Projection, Necromancy, phb 215
+9, Foresight, Divination, phb 244
+9, Gate, Conjuration, phb 244
+9, Imprisonment, Abjuration, phb 252
+9, Mass Heal, Conjuration, phb 258
+9, Meteor Swarm, Evocation, phb 259
+9, Power Word Heal, Evocation, phb 266
+9, Power Word Kill, Enchantment, phb 266
+9, Prismatic Wall, Abjuration, phb 267
+9, Shapechange, Transmutation, phb 274
+9, Storm of Vengeance, Conjuration, phb 279
+9, Time Stop, Transmutation, phb 283
+9, True Polymorph, Transmutation, phb 283
+9, True Resurrection, Necromancy, phb 284
+9, Weird, Illusion, phb 288
+9, Wish, Conjuration, phb 288

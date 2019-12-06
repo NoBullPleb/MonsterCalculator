@@ -1,0 +1,9 @@
+15, Lawful good 
+35, Neutral good 
+50, Chaotic good 
+63, Lawful neutral 
+73, Neutral
+85, Chaotic neutral
+89, Lawfulevil 
+96, Neutral evil 
+100, Chaotic evil

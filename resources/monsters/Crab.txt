@@ -1,0 +1,21 @@
+~Crab
+Tiny beast, unaligned
+Armor Class, 11 (natural Armor)
+Hit Points, 2 (1d4)
+Speed, 20 ft., swim 20 ft.
+Str,2 (­4)
+Dex,11 (+0)
+Con,10 (+0)
+Int,1 (­5)
+Wis,8 (­1)
+Cha,2 (­4)
+Skills, Stealth +2
+Senses, blindsight 30 ft., passive Perception 9
+Languages, —
+Challenge, 0 (10 XP)
+Traits
+Amphibious, The crab can breathe air and water.
+Actions
+Claw ­ Melee Weapon Attack
++0 to hit, reach 5 ft., one target.
+Hit, 1 bludgeoning damage.

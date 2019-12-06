@@ -1,0 +1,31 @@
+~Doppelganger
+Medium Monstrosity (Shapechanger), Neutral
+Armor Class, 14
+Hit Points, 52 (8d8+16)
+Speed, 30 ft
+Str,11 (+0)
+Dex,18 (+4)
+Con,14 (+2)
+Int,11 (+0)
+Wis,12 (+1)
+Cha,14 (+2)
+Skills, Deception +6, Insight +3
+Condition Immunities, Charmed
+Senses, Darkvision 60 ft, passive Perception 11
+Languages, Common
+Challenge, 1 (200xp)
+Traits
+Shapechanger, The doppelganger can use its action to polymorph into a small or Medium humanoid it has seen, or
+back into its natural form. Its statistics, other than size, are the same in each form. Its equipment is not transformed. If
+slain, the doppelganger reverts to its natural form.
+Ambusher, The doppelganger has advantage on attack rolls against any creature it has suprised.
+Actions
+Multiattack, The doppelganer makes two melee attacks
+Slam­ Melee Weapon Attack
++6 to hit, reach 5 ft, one target
+Hit, 7 (1d6+4) bludgeoning damage
+Read Thoughts, The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect
+can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it.
+While the target is within range, the doppelganger can continue reading its thoughts as long as the doppelganger’s
+concentration isn’t broken. While reading the target’s mind the doppelganger has advantage on Wisdom (Insight) and
+Charisma (Deception, Intimidation, and Persuasion) checks against the target.

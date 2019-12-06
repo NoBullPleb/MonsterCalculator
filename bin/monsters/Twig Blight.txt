@@ -1,0 +1,23 @@
+~Twig Blight
+Small Plant, Neutral Evil
+Armor Class, 13 (Natural Armor)
+Hit Points, 4 (1d6 + 1)
+Speed, 20 ft
+Str,13 (+1)
+Dex,15 (+2)
+Con,13 (+1)
+Int,2 (­4)
+Wis,12 (+1)
+Cha,6 (­2)
+Skills, Stealth +3
+Damage Vulnerabilities, Fire
+Condition Immunities, Blinded, Deafened
+Senses, Blindsight 60ft (blind beyond this radius), passive Perception 9
+Languages, understands Common but doesn’t speak
+Challenge, ⅛ (25xp)
+Traits
+False Appearance, The blight resembles a dead shrub. While it remains motionless among vegetation, it can hide without being out of sight.
+Actions
+Claws ­ Melee Weapon Attack
++3 to hit (Reach 5 ft; One Creature).
+Hit, 3 (1d4+1) piercing damage. If the attack deals maximum damage, the wolf also knocks the target prone

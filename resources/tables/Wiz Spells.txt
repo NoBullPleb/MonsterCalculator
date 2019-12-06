@@ -1,0 +1,252 @@
+0, Acid Splash, Conjuration, 1 action, phb 211
+0, Blade Ward, Abjuration, 1 action, phb 218
+0, Chill Touch, Necromancy, 1 action, phb 221
+0, Control Flames, Transmutation, 1 action, ee 16
+0, Create Bonfire, Conjuration, 1 action, ee 16
+0, Dancing Lights, Evocation, 1 action, phb 230
+0, Fire Bolt, Evocation, 1 action, phb 242
+0, Friends, Enchantment, 1 action, phb 244
+0, Frostbite, Evocation, 1 action, ee 18
+0, Gust, Transmutation, 1 action, ee 19
+0, Light, Evocation, 1 action, phb 255
+0, Mage Hand, Conjuration, 1 action, phb 256
+0, Mending, Transmutation, 1 minute, phb 259
+0, Message, Transmutation, 1 action, phb 259
+0, Minor Illusion, Illusion, 1 action, phb 260
+0, Mold Earth, Transmutation, 1 action, ee 21
+0, Poison Spray, Conjuration, 1 action, phb 266
+0, Prestidigitation, Transmutation, 1 action, phb 267
+0, Ray of Frost, Evocation, 1 action, phb 271
+0, Shape Water, Transmutation, 1 action, ee 21
+0, Shocking Grasp, Evocation, 1 action, phb 275
+0, Thunderclap, Evocation, 1 action, ee 22
+0, True Strike, Divination, 1 action, phb 284
+1, Absorb Elements, Abjuration, 1 reaction, ee 15
+1, Alarm, Abjuration, 1 minute, phb 211
+1, Burning Hands, Evocation, 1 action, phb 220
+1, Catapult, Transmutation, 1 action, ee 15
+1, Charm Person, Enchantment, 1 action, phb 221
+1, Chromatic Orb, Evocation, 1 action, phb 221
+1, Color Spray, Illusion, 1 action, phb 222
+1, Comprehend Languages, Divination, 1 action, phb 224
+1, Detect Magic, Divination, 1 action, phb 231
+1, Disguise Self, Illusion, 1 action, phb 233
+1, Earth Tremor, Evocation, 1 action, ee 17
+1, Expeditious Retreat, Transmutation, 1 bonus action, phb 238
+1, False Life, Necromancy, 1 action, phb 239
+1, Feather Fall, Transmutation, 1 reaction, phb 239
+1, Find Familiar, Conjuration, 1 hour, phb 240
+1, Fog Cloud, Conjuration, 1 action, phb 243
+1, Grease, Conjuration, 1 action, phb 246
+1, Ice Knife, Conjuration, 1 action, ee 19
+1, Identify, Divination, 1 minute, phb 252
+1, Illusory Script, Illusion, 1 minute, phb 252
+1, Jump, Transmutation, 1 action, phb 254
+1, Longstrider, Transmutation, 1 action, phb 256
+1, Mage Armor, Abjuration, 1 action, phb 256
+1, Magic Missile, Evocation, 1 action, phb 257
+1, Protection from Evil and Good, Abjuration, 1 action, phb 270
+1, Ray of Sickness, Necromancy, 1 action, phb 271
+1, Shield, Abjuration, 1 reaction, phb 275
+1, Silent Image, Illusion, 1 action, phb 276
+1, Sleep, Enchantment, 1 action, phb 276
+1, Tasha's Hideous Laughter, Enchantment, 1 action, phb 280
+1, Tenser's Floating Disk, Conjuration, 1 action, phb 282
+1, Thunderwave, Evocation, 1 action, phb 282
+1, Unseen Servant, Conjuration, 1 action, phb 284
+1, Witch Bolt, Evocation, 1 action, phb 289
+2, Aganazzar's Scorcher, Evocation, 1 action, ee 15
+2, Alter Self, Transmutation, 1 action, phb 211
+2, Arcane Lock, Abjuration, 1 action, phb 215
+2, Blindness/Deafness, Necromancy, 1 action, phb 219
+2, Blur, Illusion, 1 action, phb 219
+2, Cloud of Daggers, Conjuration, 1 action, phb 222
+2, Continual Flame, Evocation, 1 action, phb 227
+2, Crown of Madness, Enchantment, 1 action, phb 229
+2, Darkness, Evocation, 1 action, phb 230
+2, Darkvision, Transmutation, 1 action, phb 230
+2, Detect Thoughts, Divination, 1 action, phb 231
+2, Dust Devil, Conjuration, 1 action, ee 17
+2, Earthbind, Transmutation, 1 action, ee 17
+2, Enlarge/Reduce, Transmutation, 1 action, phb 237
+2, Flaming Sphere, Conjuration, 1 action, phb 242
+2, Gentle Repose, Necromancy, 1 action, phb 245
+2, Gust of Wind, Evocation, 1 action, phb 248
+2, Hold Person, Enchantment, 1 action, phb 251
+2, Invisibility, Illusion, 1 action, phb 254
+2, Knock, Transmutation, 1 action, phb 254
+2, Levitate, Transmutation, 1 action, phb 255
+2, Locate Object, Divination, 1 action, phb 256
+2, Magic Mouth, Illusion, 1 minute, phb 257
+2, Magic Weapon, Transmutation, 1 bonus action, phb 257
+2, Maximilian's Earthen Grasp, Transmutation, 1 action, ee 20
+2, Melf's Acid Arrow, Evocation, 1 action, phb 259
+2, Mirror Image, Illusion, 1 action, phb 260
+2, Misty Step, Conjuration, 1 bonus action, phb 260
+2, Nystul's Magic Aura, Illusion, 1 action, phb 263
+2, Phantasmal Force, Illusion, 1 action, phb 264
+2, Pyrotechnics, Transmutation, 1 action, ee 21
+2, Ray of Enfeeblement, Necromancy, 1 action, phb 271
+2, Rope Trick, Transmutation, 1 action, phb 272
+2, Scorching Ray, Evocation, 1 action, phb 273
+2, See Invisibility, Divination, 1 action, phb 274
+2, Shatter, Evocation, 1 action, phb 275
+2, Skywrite, Transmutation, 1 action, ee 22
+2, Snilloc's Snowball Swarm, Evocation, 1 action, ee 22
+2, Spider Climb, Transmutation, 1 action, phb 277
+2, Suggestion, Enchantment, 1 action, phb 279
+2, Web, Conjuration, 1 action, phb 287
+3, Animate Dead, Necromancy, 1 minute, phb 212
+3, Bestow Curse, Necromancy, 1 action, phb 218
+3, Blink, Transmutation, 1 action, phb 219
+3, Clairvoyance, Divination, 10 minutes, phb 222
+3, Counterspell, Abjuration, 1 reaction, phb 228
+3, Dispel Magic, Abjuration, 1 action, phb 234
+3, Erupting Earth, Transmutation, 1 action, ee 17
+3, Fear, Illusion, 1 action, phb 239
+3, Feign Death, Necromancy, 1 action, phb 240
+3, Fireball, Evocation, 1 action, phb 241
+3, Flame Arrows, Transmutation, 1 action, ee 18
+3, Fly, Transmutation, 1 action, phb 243
+3, Gaseous Form, Transmutation, 1 action, phb 244
+3, Glyph of Warding, Abjuration, 1 hour, phb 245
+3, Haste, Transmutation, 1 action, phb 250
+3, Hypnotic Pattern, Illusion, 1 action, phb 252
+3, Leomund's Tiny Hut, Evocation, 1 minute, phb 255
+3, Lightning Bolt, Evocation, 1 action, phb 255
+3, Magic Circle, Abjuration, 1 minute, phb 256
+3, Major Image, Illusion, 1 action, phb 258
+3, Melf's Minute Meteors, Evocation, 1 action, ee 20
+3, Nondetection, Abjuration, 1 action, phb 263
+3, Phantom Steed, Illusion, 1 minute, phb 265
+3, Protection from Energy, Abjuration, 1 action, phb 270
+3, Remove Curse, Abjuration, 1 action, phb 271
+3, Sending, Evocation, 1 action, phb 274
+3, Sleet Storm, Conjuration, 1 action, phb 276
+3, Slow, Transmutation, 1 action, phb 277
+3, Stinking Cloud, Conjuration, 1 action, phb 278
+3, Tidal Wave, Conjuration, 1 action, ee 22
+3, Tongues, Divination, 1 action, phb 283
+3, Vampiric Touch, Necromancy, 1 action, phb 285
+3, Wall of Sand, Evocation, 1 action, ee 23
+3, Wall of Water, Evocation, 1 action, ee 23
+3, Water Breathing, Transmutation, 1 action, phb 287
+4, Arcane Eye, Divination, 1 action, phb 214
+4, Banishment, Abjuration, 1 action, phb 217
+4, Blight, Necromancy, 1 action, phb 219
+4, Confusion, Enchantment, 1 action, phb 224
+4, Conjure Minor Elementals, Conjuration, 1 minute, phb 226
+4, Control Water, Transmutation, 1 action, phb 227
+4, Dimension Door, Conjuration, 1 action, phb 233
+4, Elemental Bane, Transmutation, 1 action, ee 17
+4, Evard's Black Tentacles, Conjuration, 1 action, phb 238
+4, Fabricate, Transmutation, 10 minutes, phb 239
+4, Fire Shield, Evocation, 1 action, phb 242
+4, Greater Invisibility, Illusion, 1 action, phb 246
+4, Hallucinatory Terrain, Illusion, 10 minutes, phb 249
+4, Ice Storm, Evocation, 1 action, phb 252
+4, Leomund's Secret Chest, Conjuration, 1 action, phb 254
+4, Locate Creature, Divination, 1 action, phb 256
+4, Mordenkainen's Faithful Hound, Conjuration, 1 action, phb 261
+4, Mordenkainen's Private Sanctum, Abjuration, 10 minutes, phb 262
+4, Otiluke's Resilient Sphere, Evocation, 1 action, phb 264
+4, Phantasmal Killer, Illusion, 1 action, phb 265
+4, Polymorph, Transmutation, 1 action, phb 266
+4, Stone Shape, Transmutation, 1 action, phb 278
+4, Stoneskin, Abjuration, 1 action, phb 278
+4, Storm Sphere, Evocation, 1 action, ee 22
+4, Vitriolic Sphere, Evocation, 1 action, ee 23
+4, Wall of Fire, Evocation, 1 action, phb 285
+4, Watery Sphere, Conjuration, 1 action, ee 23
+5, Animate Objects, Transmutation, 1 action, phb 213
+5, Bigby's Hand, Evocation, 1 action, phb 218
+5, Cloudkill, Conjuration, 1 action, phb 222
+5, Cone of Cold, Evocation, 1 action, phb 224
+5, Conjure Elemental, Conjuration, 1 minute, phb 225
+5, Contact Other Plane, Divination, 1 minute, phb 226
+5, Control Winds, Transmutation, 1 action, ee 16
+5, Creation, Illusion, 1 minute, phb 229
+5, Dominate Person, Enchantment, 1 action, phb 235
+5, Dream, Illusion, 1 minute, phb 236
+5, Geas, Enchantment, 1 minute, phb 244
+5, Hold Monster, Enchantment, 1 action, phb 251
+5, Immolation, Evocation, 1 action, ee 19
+5, Legend Lore, Divination, 10 minutes, phb 254
+5, Mislead, Illusion, 1 action, phb 260
+5, Modify Memory, Enchantment, 1 action, phb 261
+5, Passwall, Transmutation, 1 action, phb 264
+5, Planar Binding, Abjuration, 1 hour, phb 265
+5, Rary's Telepathic Bond, Divination, 1 action, phb 270
+5, Scrying, Divination, 10 minutes, phb 273
+5, Seeming, Illusion, 1 action, phb 274
+5, Telekinesis, Transmutation, 1 action, phb 280
+5, Teleportation Circle, Conjuration, 1 minute, phb 282
+5, Transmute Rock, Transmutation, 1 action, ee 22
+5, Wall of Force, Evocation, 1 action, phb 285
+5, Wall of Stone, Evocation, 1 action, phb 287
+6, Arcane Gate, Conjuration, 1 action, phb 214
+6, Chain Lightning, Evocation, 1 action, phb 221
+6, Circle of Death, Necromancy, 1 action, phb 221
+6, Contingency, Evocation, 10 minutes, phb 227
+6, Create Undead, Necromancy, 1 minute, phb 229
+6, Disintegrate, Transmutation, 1 action, phb 233
+6, Drawmij's Instant Summons, Conjuration, 1 minute, phb 235
+6, Eyebite, Necromancy, 1 action, phb 238
+6, Flesh to Stone, Transmutation, 1 action, phb 243
+6, Globe of Invulnerability, Abjuration, 1 action, phb 245
+6, Guards and Wards, Abjuration, 10 minutes, phb 248
+6, Investiture of Flame, Transmutation, 1 action, ee 19
+6, Investiture of Ice, Transmutation, 1 action, ee 19
+6, Investiture of Stone, Transmutation, 1 action, ee 19
+6, Investiture of Wind, Transmutation, 1 action, ee 20
+6, Magic Jar, Necromancy, 1 minute, phb 257
+6, Mass Suggestion, Enchantment, 1 action, phb 258
+6, Move Earth, Transmutation, 1 action, phb 263
+6, Otiluke's Freezing Sphere, Evocation, 1 action, phb 263
+6, Otto's Irresistible Dance, Enchantment, 1 action, phb 264
+6, Programmed Illusion, Illusion, 1 action, phb 269
+6, Sunbeam, Evocation, 1 action, phb 279
+6, True Seeing, Divination, 1 action, phb 284
+6, Wall of Ice, Evocation, 1 action, phb 285
+7, Delayed Blast Fireball, Evocation, 1 action, phb 230
+7, Etherealness, Transmutation, 1 action, phb 238
+7, Finger of Death, Necromancy, 1 action, phb 241
+7, Forcecage, Evocation, 1 action, phb 243
+7, Mirage Arcane, Illusion, 10 minutes, phb 260
+7, Mordenkainen's Magnificent Mansion, Conjuration, 1 minute, phb 261
+7, Mordenkainen's Sword, Evocation, 1 action, phb 262
+7, Plane Shift, Conjuration, 1 action, phb 266
+7, Prismatic Spray, Evocation, 1 action, phb 267
+7, Project Image, Illusion, 1 action, phb 270
+7, Reverse Gravity, Transmutation, 1 action, phb 272
+7, Sequester, Transmutation, 1 action, phb 274
+7, Simulacrum, Illusion, 12 hours, phb 276
+7, Symbol, Abjuration, 1 minute, phb 280
+7, Teleport, Conjuration, 1 action, phb 281
+7, Whirlwind, Evocation, 1 action, ee 24
+8, Abi-Dalzim's Horrid Wilting, Necromancy, 1 action, ee 15
+8, Antimagic Field, Abjuration, 1 action, phb 213
+8, Antipathy/Sympathy, Enchantment, 1 hour, phb 214
+8, Clone, Necromancy, 1 hour, phb 222
+8, Control Weather, Transmutation, 10 minutes, phb 228
+8, Demiplane, Conjuration, 1 action, phb 231
+8, Dominate Monster, Enchantment, 1 action, phb 235
+8, Feeblemind, Enchantment, 1 action, phb 239
+8, Incendiary Cloud, Conjuration, 1 action, phb 253
+8, Maze, Conjuration, 1 action, phb 258
+8, Mind Blank, Abjuration, 1 action, phb 259
+8, Power Word Stun, Enchantment, 1 action, phb 267
+8, Sunburst, Evocation, 1 action, phb 279
+8, Telepathy, Evocation, 1 action, phb 281
+9, Astral Projection, Necromancy, 1 hour, phb 215
+9, Foresight, Divination, 1 minute, phb 244
+9, Gate, Conjuration, 1 action, phb 244
+9, Imprisonment, Abjuration, 1 minute, phb 252
+9, Meteor Swarm, Evocation, 1 action, phb 259
+9, Power Word Kill, Enchantment, 1 action, phb 266
+9, Prismatic Wall, Abjuration, 1 action, phb 267
+9, Shapechange, Transmutation, 1 action, phb 274
+9, Time Stop, Transmutation, 1 action, phb 283
+9, True Polymorph, Transmutation, 1 action, phb 283
+9, Weird, Illusion, 1 action, phb 288
+9, Wish, Conjuration, 1 action, phb 288

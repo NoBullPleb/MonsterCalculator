@@ -1,0 +1,23 @@
+~Skeleton
+Medium Undead, Lawful Evil
+Armor Class, 13 (Armor Scraps)
+Hit Points, 13 (2d8+4)
+Speed, 30 ft
+Str,11 (+0)
+Dex,14 (+2)
+Con,15 (+2)
+Int,6 (­2)
+Wis,8 (­1)
+Cha,5 (­3)
+Damage Vulnerabilities, Bludgeoning
+Damage Immunities, Poison
+Condition Immunities, Poisoned,Shortsword ­ Melee Weapon Attack
+Senses, Darkvision 60 ft
+Languages, Understands languages it knew in life but can’t speak
+Challenge, ¼ (50xp)
+Actions
++4 to hit (reach 5 ft; one creature).
+Hit, 4 (1d6+2) slashing damage.
+Shortbow ­ Ranged Weapon Attack
++4 to hit (range 80 ft/320 ft; one creature).
+Hit, 4 (1d6+2) piercing damage.
