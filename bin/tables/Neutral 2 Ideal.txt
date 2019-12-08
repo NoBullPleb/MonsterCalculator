@@ -1,6 +1,0 @@
-1,Aspiration
-2,Discovery
-3,Glory
-4,Nation
-5,Redemption
-6,Self Knowledge

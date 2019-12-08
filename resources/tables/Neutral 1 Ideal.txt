@@ -1,6 +1,0 @@
-1,Balance
-2,Knowledge
-3,Live and let live
-4,Moderation
-5,Neutrality
-6,People

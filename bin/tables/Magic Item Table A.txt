@@ -1,8 +1,0 @@
-50, Potion of healing
-60, Spell scroll (cantrip)
-70, Potion of climbing
-90, Spell scroll (1st level)
-94, Spell scroll (2nd level) 
-98, Potion of greater healing
-99, Bag of holding 
-100, Driftglobe

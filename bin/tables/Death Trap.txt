@@ -1,6 +1,0 @@
-1, Antechamber or waiting room for spectators
-8, Guard room fortified against intruders
-11, Vault for holding important treasures accessible only by locked or secret door (75 percent chance of being trapped)
-14, Room containing a puzzle that must be solved to bypass a trap o r monster
-19, Trap designed to kill or capture creatures
-20, Observation room, allowing guards or spectators to observe creatures moving through the dungeon

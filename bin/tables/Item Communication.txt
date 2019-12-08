@@ -1,3 +1,0 @@
-60, transmits emotion to the creature carrying or wielding it.
-90, can speak, read, and understand one or more languages.
-100, can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it.

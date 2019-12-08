@@ -1,3 +1,0 @@
-2,Setback (DC 10-11; +3-+5 attack)
-5,Dangerous (DC 12-15; +6-+8 attack)
-6,Deadly (DC 16-20; +9 to +12 attack)
