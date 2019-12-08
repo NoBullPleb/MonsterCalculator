@@ -1,5 +1,4 @@
 
-
 import java.util.List;
 
 import javax.swing.JButton;
@@ -13,7 +12,6 @@ import javax.swing.JTextField;
 import javax.swing.ListModel;
 import javax.swing.ScrollPaneConstants;
 
-
 @SuppressWarnings("serial")
 public class MonsterCalc extends JFrame {
 	private final static int numStats = 7;
@@ -24,9 +22,9 @@ public class MonsterCalc extends JFrame {
 			14d, 15d, 16d, 17d, 18d, 19d, 20d, 21d, 22d, 23d, 24d, 25d, 26d, 27d, 28d, 29d, 30d };
 
 	private static String[] labels = { "CR", "PB", "AC", "HP", "AB", "DR", "DC" };
-	private static String[] tooltips = { "Challenge Rating", "Proficiency Bonus", "Armor Class", "Hit Points", "Attack Bonus", "Damage per Round", "Save DC" };
-	
-	
+	private static String[] tooltips = { "Challenge Rating", "Proficiency Bonus", "Armor Class", "Hit Points",
+			"Attack Bonus", "Damage per Round", "Save DC" };
+
 	JScrollPane[] sp = new JScrollPane[2];
 	private static JTextField[] statsB = new JTextField[numStats];
 	private static JTextField[] statsA = new JTextField[numStats];
@@ -49,14 +47,23 @@ public class MonsterCalc extends JFrame {
 		}
 	}
 
+	// for each stat, scale it and update the fields on the right.
 	private void updateFields() {
-		int in1 = CRs[0].getSelectedIndex(), in2 = CRs[1].getSelectedIndex();
+		int currentCR = CRs[0].getSelectedIndex(), // Current CR of Monster
+				scaledCR = CRs[1].getSelectedIndex(); // CR we're scaling it to
 		for (int i = 1; i < numStats; i++) {
 			try {
-				Integer stat = Integer.parseInt(statsB[i].getText());
-				Double maxCurrent = chart[in1][i], maxFuture = chart[in2][i];
-				stat = (int) Math.round((stat / maxCurrent) * maxFuture);
-				statsA[i].setText(stat.toString());
+				// grab the entered stat, convert to Integer.
+				Integer currentstat = Integer.parseInt(statsB[i].getText());
+				// maxCurrent = max the value should be at the current CR.
+				Double maxCurrent = chart[currentCR][i],
+						// maxScaled = max the value should be at the scaled to CR.
+						maxScaled = chart[scaledCR][i];
+				// scaled stat = current divided by the max that value should be, times the max
+				// that value could be at the CR we're scaling it to.
+				Integer scaledstat = (int) Math.round((currentstat / maxCurrent) * maxScaled);
+				// set the text on the right to the scaled value.
+				statsA[i].setText(scaledstat.toString());
 			} catch (Exception e) {
 			}
 		}
@@ -97,21 +104,24 @@ public class MonsterCalc extends JFrame {
 				contentPane.add(statsA[i]);
 			}
 		}
-		JButton guess = new JButton("Guess the CR");
+		JButton guess = new JButton("Calculate Stats");
 		guess.setBounds(10, 185, 170, 15);
-		guess.addActionListener(e -> guessCR());
+		guess.addActionListener(e -> updateFields());
 		contentPane.add(guess);
 		this.setTitle("Monster Calculator");
 		setContentPane(contentPane);
 	}
 
+	// given the stats on the left, find what the average CR of all of it's stats
+	// will be.
+	// currently unused in UI
 	private void guessCR() {
 		Double cr = 0d;
 		int devBy = numStats - 1;
 		System.out.println();
 		for (int i = 1; i < numStats; i++) {
 			String t = statsB[i].getText();
-			if (t==null || t.isBlank()) {
+			if (t == null || t.isBlank()) {
 				devBy--;
 				continue;
 			}
